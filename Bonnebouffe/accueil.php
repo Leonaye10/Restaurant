@@ -1,0 +1,3 @@
+<?php
+echo "BIENVENUE SUR LE SITE DE LA BONNE BOUFFE !";
+?>

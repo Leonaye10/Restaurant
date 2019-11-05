@@ -1,0 +1,67 @@
+body
+{
+    background-image: url(Images/background.jpg);
+    background-size: 100% 100%;
+    height: 1100px;
+}
+
+p
+{
+    font-family: fantasy;
+    font-size: 50px;
+}
+#references
+{
+    font-family: monospace;
+    font-size: 25px;
+}
+div
+{
+    
+}
+#img
+{
+    
+}
+li {
+    display:inline-block;
+    color: whitesmoke;
+    margin-right: 50px;
+    margin-left: 50px;
+    transition-duration: 1s;
+    
+}
+li:hover{
+    background-color: whitesmoke;
+
+}
+ul{
+    margin: 6px;
+    text-align: center;
+    background-color: #996600;
+}
+a {
+  font-family:fantasy;
+  font-size: 21px;px;
+  height: 15px;
+  color:black;
+  transition-duration: 1s;
+    
+
+}
+
+a:active{
+    background-color: white;
+    color: black;
+}
+.LoginGauche
+{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 80px;
+    
+}
+.LoginDroite
+{
+    margin-left: 300px;
+}
